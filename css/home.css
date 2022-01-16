@@ -1,0 +1,18 @@
+body {
+    background: #23272A;
+}
+.desc {
+    text-align: center;
+    color: #23272A;
+}
+.row {
+    color:white;
+    text-align: center;
+}
+.jumbotron {
+    width: auto;
+}
+.footer {
+    text-align: center;
+    color: white;
+}
