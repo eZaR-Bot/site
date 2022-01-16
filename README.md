@@ -17,5 +17,5 @@ Thats a **You** Problem.
 # Lisence 
 This project has MIT Lisence.
 
-#Contributing
+# Contributing
 Contributors are welcomed with open arms! Open a PR (Pull Request) and your done!
