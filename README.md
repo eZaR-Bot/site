@@ -6,7 +6,7 @@ A very basic bot website made for ezar. Made from Html, CSS, JS, And ❤
 
 Well yea, But DO NOT! Touch the footer or the teams tab! It contains credits to the developers. And if you remove it, I WILL TAKE YOU TO COURT! >:/
 
----> How to customize?** <---
+---> How to customize? <---
 
 Just change the parts on the index.htm or history.htm and the bot links on the index.htm, And dont change the credits.
 
