@@ -1,6 +1,6 @@
 # eZaR-Website-Rewrite
 
-A very basic bot website made for ezar. Made from Html, CSS, JS, And ❤
+A very basic bot website made for ezar. Made from Html, CSS, JS, [Bootstrap](https://getbootstrap.com/) And ❤
 
 # FAQ
 
@@ -24,5 +24,5 @@ This project has MIT Lisence.
 
 Contributors are welcomed with open arms! Open a PR (Pull Request) and your done!
 
-# Demo
-![image](https://user-images.githubusercontent.com/81732383/149757207-41e99cc6-5aab-4fe4-976f-9d7fdcb9dabe.png)
+# Preview
+![image](https://capy-cdn.xyz/iox75UMZ.png)

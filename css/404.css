@@ -1,3 +1,13 @@
-.error {
-    background-color:#23272A;
+body {
+    background-color: #23272A;
+}
+
+.desc {
+    text-align: center;
+    color: #23272A;
+}
+
+.footer {
+    text-align: center;
+    color: white;
 }
