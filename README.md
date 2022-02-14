@@ -24,5 +24,7 @@ This project has MIT Lisence.
 
 Contributors are welcomed with open arms! Open a PR (Pull Request) and your done!
 
-# Preview
-![image](https://capy-cdn.xyz/iox75UMZ.png)
+# Previews
+![Home](https://capy-cdn.xyz/ZM9Emvfs.png)
+![Team](https://capy-cdn.xyz/KN7sL3S8.png)
+![History](https://capy-cdn.xyz/2v9DRLO8.png)
