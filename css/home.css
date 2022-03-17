@@ -16,3 +16,20 @@ body {
     text-align: center;
     color: white;
 }
+
+a {
+    color: cadetblue;
+    text-decoration: none;
+}
+
+a:hover {
+    color: green;
+    transition: 0.5s;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    padding: 15px 0;
+    width: 100%;
+}

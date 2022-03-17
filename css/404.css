@@ -10,4 +10,18 @@ body {
 .footer {
     text-align: center;
     color: white;
+    position: absolute;
+    bottom: 0;
+    padding: 15px 0;
+    width: 100%;
+}
+
+a {
+    color: cadetblue;
+    text-decoration: none;
+}
+
+a:hover {
+    color: green;
+    transition: 0.5s;
 }
