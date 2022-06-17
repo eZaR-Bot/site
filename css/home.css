@@ -33,3 +33,7 @@ a:hover {
     padding: 15px 0;
     width: 100%;
 }
+
+.jumbotron {
+    color: #FFFF;
+}
