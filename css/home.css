@@ -35,5 +35,6 @@ a:hover {
 }
 
 .jumbotron {
-    color: #FFFF;
+    background-color: #1B2430;
+    color: whitesmoke;
 }
