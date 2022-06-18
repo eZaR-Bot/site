@@ -1,29 +1,28 @@
-# eZaR-Website-Rewrite
+# Site
 
-A very basic bot website made for ezar. Made from Html, CSS, JS, [Bootstrap](https://getbootstrap.com/) And ❤
+A very basic bot website made for eZaR. Made using Html, CSS, [Bootstrap](https://getbootstrap.com/) And ❤.
 
 # FAQ
 
----> Can i use it? <---
+---> Can I use this? <---
 
-Well yea, But DO NOT! Touch the footer or the teams tab! It contains credits to the developers. And if I find out that you removed the credits, I SWEAR I will take you to court or X_X 🔪
+Yes, but DO NOT! Touch the footer or the team tab! It contains credits to the developers.
 
+---> How do I customize? <---
 
----> How to customize? <---
+Just change the parts on the index.html or history.html files and the links on the index.html, but do not change the credits.
 
-Just change the parts on the index.html or history.html and the bot links on the index.html, And dont change the credits.
+---> How do I host this? <---
 
----> How to host? <---
+We do not provide support for self-hosting, or modifying the site.
 
-Thats a **You** Problem.
+# License
 
-# Lisence
-
-This project has MIT Lisence.
+This project is under the Apache 2.0 License.
 
 # Contributing
 
-Contributors are welcomed with open arms! Open a PR (Pull Request) and you're done!
+Contributors are welcomed with open arms! Open a Pull Request and you're done!
 
 # Previews
 ![Home](https://capy-cdn.xyz/ZM9Emvfs.png)
